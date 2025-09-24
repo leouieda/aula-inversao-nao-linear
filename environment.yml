@@ -1,0 +1,11 @@
+name: aula-inversao-nao-linear
+channels:
+  - conda-forge
+dependencies:
+  - python==3.13
+  - livereload
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - ipywidgets
